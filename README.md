@@ -15,7 +15,7 @@ Make sure all options are checked and, where needed, updated. All options have a
 
 This script can be executed locally on a DirectAdmin server, but can also connect to (any) DirectAdmin server from a remote location. This is useful if you manage many DirectAdmin servers.
 
-    Usage:
+**Usage:**
 
      Change the password of one user:
       ./da_changepass.php --user <username> <optional password>
