@@ -9,9 +9,11 @@ http://files.directadmin.com/services/all/httpsocket/httpsocket.php
 
 If `$usesmtp` is set to `Y`, the [PHPmailer](https://github.com/PHPMailer/PHPMailer) package is required.
 
-Make sure all options are checked and, where needed, updated. All options have a short explanation behind it that explains its function. Once done, set `$scriptedited` to `Y`.
+Make sure all options are checked and, where needed, updated. All options have a short explanation behind it that explains its function. If you enable the `$sendemailtouser` option, then also check and update the 3 `$mailbody` and `$mailsubject` combinations. Once done, set `$scriptedited` to `Y`.
 
 This script can be executed locally on a DirectAdmin server, but can also connect to (any) DirectAdmin server from a remote location. This is useful if you manage many DirectAdmin servers.
+
+More infomation at [DirectAdmin](http://directadminguru.com/changing-some-or-all-directadmin-related-account-passwords/).
 
 ## Usage:
 
