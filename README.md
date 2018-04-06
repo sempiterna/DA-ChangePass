@@ -13,8 +13,6 @@ Make sure all options are checked and, where needed, updated. All options have a
 
 This script can be executed locally on a DirectAdmin server, but can also connect to (any) DirectAdmin server from a remote location. This is useful if you manage many DirectAdmin servers.
 
-More infomation about this script can be found at [DirectAdminguru.com](http://directadminguru.com/changing-some-or-all-directadmin-related-account-passwords/).
-
 ## Usage:
 
 ##### Change the password of one user:
